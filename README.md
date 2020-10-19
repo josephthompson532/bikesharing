@@ -21,6 +21,9 @@ The results show that users are predominantly male that are subscribers to Citib
 
 ![Screen Shot 2020-10-18 at 6 37 24 PM](https://user-images.githubusercontent.com/66881241/96392512-2edacd00-1171-11eb-9a80-abd3c8d06b82.png)
 
+![Screen Shot 2020-10-18 at 6 41 11 PM](https://user-images.githubusercontent.com/66881241/96392630-8e38dd00-1171-11eb-9fbe-4f2ae4c80b50.png)
+
+![Screen Shot 2020-10-18 at 6 42 07 PM](https://user-images.githubusercontent.com/66881241/96392661-a6a8f780-1171-11eb-9892-21e93cf6fd3a.png)
 
 ## Summary
 In conclusion, given that Des Moines is a relatively small city and not a rural area, it is likely the case that there is a sizable portion of the populace that are open to riding bikes to work. 
